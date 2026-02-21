@@ -9,7 +9,7 @@ This is a geospatial analysis project built in Python utilizing GeoPandas, based
 This project builds a Urban Accessibility Index for New York City by integrating multiple real-world geospatial datasets into a single composite score that quantifies how accessible each part of the city is in terms of schools, transit, cycling infrastructure, and green space. It serves as a portfolio project demonstrating proficiency in GeoPandas for spatial data analysis, visualization, and processing — spanning two levels of spatial granularity: traditional neighborhood polygons and an H3 hexagonal grid.
 
 <img width="1492" height="602" alt="image" src="https://github.com/user-attachments/assets/80207753-40f1-4c0d-8ca4-ffe84637e215" />
-<img width="1478" height="604" alt="image" src="https://github.com/user-attachments/assets/aa58bee7-7244-4d2b-b816-4339656bc075" />
+<img width="1494" height="600" alt="image" src="https://github.com/user-attachments/assets/b57b53ad-bbc4-4ef0-96e3-8453ac95ce47" />
 
 ## What the Analysis Does
 
